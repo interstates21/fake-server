@@ -1,5 +1,13 @@
 {
-  "name": "hello",
-  "type": "image",
-  "uri": "https://i1.wp.com/www.trebuchet-magazine.com/wp-content/uploads/2017/04/cow-by-Pixabay-and-Ulleo-1024.jpg?resize=678%2C381&ssl=1"
+  "posts": [
+    {
+      "id": 1,
+      "type": "image",
+      "title": "hello",
+      "uri": "https://i1.wp.com/www.trebuchet-magazine.com/wp-content/uploads/2017/04/cow-by-Pixabay-and-Ulleo-1024.jpg?resize=678%2C381&ssl=1"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
